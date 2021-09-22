@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="A80F893E-594F-42C7-9A57-ED6117BC8ED8" version="0">
+	<info>
+		<title>Exam-6</title>
+		<description/>
+	</info>
+	<files index="id22" thumbnail="id18" totalSize="2337567">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-4bee9df63a27ab085253b13bcea369f68ba25e04.png</file>
+		<file id="id11">data/images/img-79749f5b2f2b2a4e33e7c7c209753992af956904.png</file>
+		<file id="id12">data/images/img-c0a46b2e9ff4f5f2c2d74da6bcf98e998758098e.png</file>
+		<file id="id13">data/images/img-ccdbc3fa0703df7f38e1b2e529d1ebc25c4a5274.png</file>
+		<file id="id14">data/images/img-e44f46b53fe6ae5333b8d6b0a71a975bfdb9eed0.jpg</file>
+		<file id="id15">data/images/img-fc07a8d2ffcb165407bf764b32cf9fde30e339d5.png</file>
+		<file id="id16">data/ismplayer/app_store2x.png</file>
+		<file id="id17">data/ismplayer/play.svg</file>
+		<file id="id18">data/ismplayer/preview.png</file>
+		<file id="id19">data/ismplayer/style.css</file>
+		<file id="id20">data/ismplayer/style_mini.css</file>
+		<file id="id21">data/player.js</file>
+		<file id="id22">index.html</file>
+		<file id="id23">ismplayer.html</file>
+		<file id="id24">preview.png</file>
+	</files>
+</presentation>
+
